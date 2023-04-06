@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-port-2/static/css/main.22b629af.css",
+    "main.js": "/react-port-2/static/js/main.687721d4.js",
+    "static/js/787.510e8dec.chunk.js": "/react-port-2/static/js/787.510e8dec.chunk.js",
+    "static/media/Database.png": "/react-port-2/static/media/Database.2b1152bb073fcfcb42a9.png",
+    "static/media/DayPlanner.png": "/react-port-2/static/media/DayPlanner.c61b453ba7505bb739ff.png",
+    "static/media/README-Generator.png": "/react-port-2/static/media/README-Generator.8e4262a6ae841fc162bb.png",
+    "static/media/feedback-app.png": "/react-port-2/static/media/feedback-app.bec4f056ed7e27a67b8b.png",
+    "static/media/TestYourKnowledge.png": "/react-port-2/static/media/TestYourKnowledge.233c0c254b7a6201f53f.png",
+    "static/media/RandomPassword.png": "/react-port-2/static/media/RandomPassword.1a13187d5e360b5ed4ae.png",
+    "static/media/background.jpg": "/react-port-2/static/media/background.b8d3f28adc9a07023665.jpg",
+    "static/media/css.png": "/react-port-2/static/media/css.4e67641bb68b658d9b2b.png",
+    "static/media/html.png": "/react-port-2/static/media/html.23784160d848f734c302.png",
+    "static/media/Corey.jpg": "/react-port-2/static/media/Corey.b4d24700a92b87507165.jpg",
+    "static/media/javascript.png": "/react-port-2/static/media/javascript.7f8751632b42a9932c15.png",
+    "index.html": "/react-port-2/index.html",
+    "main.22b629af.css.map": "/react-port-2/static/css/main.22b629af.css.map",
+    "main.687721d4.js.map": "/react-port-2/static/js/main.687721d4.js.map",
+    "787.510e8dec.chunk.js.map": "/react-port-2/static/js/787.510e8dec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22b629af.css",
+    "static/js/main.687721d4.js"
+  ]
+}
